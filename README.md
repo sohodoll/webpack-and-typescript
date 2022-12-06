@@ -1,2 +1,2 @@
 # webpack-and-typescript
-Webpack and TYpeScript Flow
+Webpack and TypeScript Flow
